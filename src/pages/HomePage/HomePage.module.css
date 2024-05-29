@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.description {
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+}

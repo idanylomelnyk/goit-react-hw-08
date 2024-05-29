@@ -1,0 +1,13 @@
+.wrapper {
+  margin-top: 25px;
+  display: flex;
+  gap: 25px;
+}
+
+.title {
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: normal;
+}

@@ -1,0 +1,51 @@
+.card {
+  position: relative;
+  width: 200px;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.info {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.icon {
+  width: 12px;
+  height: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: block;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.btnIcon {
+  width: 22px;
+  height: 22px;
+}
